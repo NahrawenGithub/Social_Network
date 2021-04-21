@@ -1,0 +1,194 @@
+
+H
+java:S1659"2Declare "invitationSendedList" on a separate line.(ï„ã¦
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ºˆºÚ€/
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(ˆÈ²8“ÎµÚ€/
+
+java:S1319Î"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§›­Q8“ÎµÚ€/
+
+java:S1319i"pThe type of the "pages" object should be an interface such as "List" rather than the implementation "ArrayList".(ùèÿé8“ÎµÚ€/
+0
+java:S1220""Move this file to a named package.
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(”‰–ñùÿÿÿÿ8“ÎµÚ€/
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(ÂöÅ8“ÎµÚ€/
+H
+java:S1659«"%Declare "choice2" on a separate line.(ø²Ÿéüÿÿÿÿ8“ÎµÚ€/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.( û§É8ëèœÚ€/
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(úµ¶¸8“ÎµÚ€/
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(±ö¢Íûÿÿÿÿ8“ÎµÚ€/
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(Úú¥8“ÎµÚ€/
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ÿÉ·¢üÿÿÿÿ8“ÎµÚ€/
+t
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ùà»ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´éø”ıÿÿÿÿ
+c
+java:S1858."H"place" is already a string, there's no need to call "toString()" on it.(éÒÚåúÿÿÿÿ
+’
+java:S1319I"pThe type of the "pages" object should be an interface such as "List" rather than the implementation "ArrayList".(ú«£Îÿÿÿÿÿ8ëèœÚ€/
+”
+java:S1319"qThe type of the "groups" object should be an interface such as "List" rather than the implementation "ArrayList".(š¿¦½ùÿÿÿÿ8“ÎµÚ€/
+n
+java:S1192t"QDefine a constant instead of duplicating this literal "1 Post a message" 3 times.(úµ¶¸8“ÎµÚ€/
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(ƒÂ–Âıÿÿÿÿ8“ÎµÚ€/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Ğ¯üÿÿÿÿ
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(ùÁ¶¨üÿÿÿÿ8“ÎµÚ€/
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(Øˆá³ùÿÿÿÿ8“ÎµÚ€/
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(çæ½8“ÎµÚ€/
+U	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÙºÄ;8“ÎµÚ€/
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(×ÿÇûÿÿÿÿ8“ÎµÚ€/
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(‡Éõí8“ÎµÚ€/
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(¨¹°°üÿÿÿÿ8“ÎµÚ€/
+—
+java:S1319¢"yThe type of the "invitationList" object should be an interface such as "List" rather than the implementation "ArrayList".(—ÉÙÇ8“ÎµÚ€/
+V	java:S106ù"9Replace this use of System.out or System.err by a logger.(Î•ÌÑ8“ÎµÚ€/
+
+java:S1319Æ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷ä¯˜8“ÎµÚ€/
+™
+java:S1319Š"vThe type of the "friendsList" object should be an interface such as "List" rather than the implementation "ArrayList".(ş»¦Êıÿÿÿÿ8“ÎµÚ€/
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ˆÈ²8“ÎµÚ€/
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(Ãüê
+G
+java:S1659j"%Declare "choice2" on a separate line.(ø²Ÿéüÿÿÿÿ8“ÎµÚ€/
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(óÁ¸»8“ÎµÚ€/
+G
+java:S1659J"%Declare "choice2" on a separate line.(ø²Ÿéüÿÿÿÿ8ëèœÚ€/
+>
+java:S1659	"#Declare "email" on a separate line.(ºà«İüÿÿÿÿ
+U	java:S106ê"9Replace this use of System.out or System.err by a logger.(Ïø‰^8“ÎµÚ€/
+˜
+java:S1319®"uThe type of the "likedPages" object should be an interface such as "List" rather than the implementation "ArrayList".(öä„ùüÿÿÿÿ8“ÎµÚ€/
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(ûˆ»
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û¼Şåÿÿÿÿÿ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Äúÿÿÿÿÿ
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(‘“ş‚ûÿÿÿÿ8ëèœÚ€/
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(¨¹°°üÿÿÿÿ8“ÎµÚ€/
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(”áëŠúÿÿÿÿ
+C
+java:S1659	"(Declare "birth_date" on a separate line.(ºà«İüÿÿÿÿ
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(ƒ³šÉùÿÿÿÿ8ëèœÚ€/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(š¾áÂ8“ÎµÚ€/
+”
+java:S1319ª"qThe type of the "groups" object should be an interface such as "List" rather than the implementation "ArrayList".(†‡½Êüÿÿÿÿ8“ÎµÚ€/
+“
+java:S1319†"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÈËĞ¨ÿÿÿÿÿ8“ÎµÚ€/
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(õÇ°ï8“ÎµÚ€/
+U	java:S106›"9Replace this use of System.out or System.err by a logger.(ûµ¦!8ëèœÚ€/
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(ğƒì¹8“ÎµÚ€/
+”
+java:S1319Ê"qThe type of the "groups" object should be an interface such as "List" rather than the implementation "ArrayList".(±ÓÊÿÿÿÿÿ8“ÎµÚ€/
+V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(Î•ÌÑ8“ÎµÚ€/
+U	java:S106“"9Replace this use of System.out or System.err by a logger.(ïÓ—}8“ÎµÚ€/
+“
+java:S1319²"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶Ù›‰üÿÿÿÿ8“ÎµÚ€/
+“
+java:S1319ª"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÙâÔéüÿÿÿÿ8“ÎµÚ€/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(á”óıÿÿÿÿ8“ÎµÚ€/
+s
+java:S1192í"PDefine a constant instead of duplicating this literal "Your message : " 3 times.(ùÁ¶¨üÿÿÿÿ8“ÎµÚ€/
+
+java:S1319Â"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(« º€8“ÎµÚ€/
+H
+java:S1659"%Declare "choice2" on a separate line.(ø²Ÿéüÿÿÿÿ8“ÎµÚ€/
+o
+java:S1192ğ"QDefine a constant instead of duplicating this literal "Message posted.
+" 3 times.(Î•ÌÑ8“ÎµÚ€/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶å…8ºÁáÏş.
+o
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(›æÌ
+A
+java:S1659	"&Declare "password" on a separate line.(ºà«İüÿÿÿÿ
+U	java:S106·"9Replace this use of System.out or System.err by a logger.(ûµ¦!8ëèœÚ€/
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(¤ú‰…ûÿÿÿÿ8“ÎµÚ€/
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(ËÓ‰§8“ÎµÚ€/
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(Áı¡şÿÿÿÿ8“ÎµÚ€/
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(¹ÎëÜÿÿÿÿÿ8“ÎµÚ€/
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(«€¼û
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(™üĞ8“ÎµÚ€/
+o
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(§äç¥
+•
+java:S1319Ò"wThe type of the "joinedGroups" object should be an interface such as "List" rather than the implementation "ArrayList".(¢ÿöš8“ÎµÚ€/
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(¶ÑÉœ8“ÎµÚ€/
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÈël
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(·óøÑ8“ÎµÚ€/
+[	java:S106ö"9Replace this use of System.out or System.err by a logger.(ùÁ¶¨üÿÿÿÿ8“ÎµÚ€/
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(ÂöÅ8“ÎµÚ€/
+o	java:S116	"URename this field "birth_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºà«İüÿÿÿÿ
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(×Ê‚Ï8“ÎµÚ€/
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(¬ùûË8“ÎµÚ€/
+˜
+java:S1319º"uThe type of the "likedPosts" object should be an interface such as "List" rather than the implementation "ArrayList".(—ÔŞõüÿÿÿÿ8“ÎµÚ€/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(³ûÇışÿÿÿÿ8ëèœÚ€/
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(úµ¶¸8“ÎµÚ€/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(Ú¹µ°úÿÿÿÿ8ëèœÚ€/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï„ã¦
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ş­ø8“ÎµÚ€/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ªÑĞ
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(¹ÎëÜÿÿÿÿÿ8ëèœÚ€/
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(úµ¶¸8“ÎµÚ€/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(ş­ø8“ÎµÚ€/
+{
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÓÍæşÿÿÿÿ8‘åãÏş.
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ª­¨ÿÿÿÿÿ8“ÎµÚ€/
+V	java:S106ô"9Replace this use of System.out or System.err by a logger.(°¦è¼8“ÎµÚ€/
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ğÖ“úúÿÿÿÿ8“ÎµÚ€/
+p	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š÷€Œûÿÿÿÿ8“ÎµÚ€/
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(Î•ÌÑ8“ÎµÚ€/
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(¶ÑÉœ8ëèœÚ€/
+h
+java:S1858-"M"birth_date" is already a string, there's no need to call "toString()" on it.(Ã„²Œûÿÿÿÿ
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(ƒÂ–Âıÿÿÿÿ8“ÎµÚ€/
+V	java:S106±"9Replace this use of System.out or System.err by a logger.(šƒûŸ8“ÎµÚ€/
+
+java:S1319?"pThe type of the "pages" object should be an interface such as "List" rather than the implementation "ArrayList".(ì›Êı8ëèœÚ€/
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(ˆ›äôıÿÿÿÿ8“ÎµÚ€/
+{
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(â²¶ãûÿÿÿÿ8‘åãÏş.
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(ôëªï8“ÎµÚ€/
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¿è®Î
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(‹®ëğùÿÿÿÿ8“ÎµÚ€/
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(ˆ›äôıÿÿÿÿ8“ÎµÚ€/
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Ô’Ñ€ûÿÿÿÿ8“ÎµÚ€/
+V	java:S106ö"9Replace this use of System.out or System.err by a logger.(¥©‰Â8“ÎµÚ€/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Êü­µùÿÿÿÿ8ëèœÚ€/
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(æê­„8ëèœÚ€/
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(ôëªï8“ÎµÚ€/
+p	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÆË¨ıÿÿÿÿ8“ÎµÚ€/
+n	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»˜³ù8“ÎµÚ€/
+[	java:S106¶"9Replace this use of System.out or System.err by a logger.(ƒ³šÉùÿÿÿÿ8ëèœÚ€/
+s	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÆË¨ıÿÿÿÿ8“ÎµÚ€/
+[	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Ã¨º«üÿÿÿÿ8“ÎµÚ€/
+”
+java:S1319„"qThe type of the "groups" object should be an interface such as "List" rather than the implementation "ArrayList".(‚ó’×ùÿÿÿÿ8“ÎµÚ€/
+
+java:S1319¾"pThe type of the "pages" object should be an interface such as "List" rather than the implementation "ArrayList".(„¹¼8“ÎµÚ€/
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(Ú¹µ°úÿÿÿÿ8ëèœÚ€/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°Õñ
+V	java:S106¸"9Replace this use of System.out or System.err by a logger.(æê­„8ëèœÚ€/
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(ùÁ¶¨üÿÿÿÿ8“ÎµÚ€/
+[	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ùÁ¶¨üÿÿÿÿ8“ÎµÚ€/
+@
+java:S1659	"%Declare "surname" on a separate line.(ºà«İüÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¬æÁ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¡±“ª
+
+java:S1319¦"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹ô±Ä8“ÎµÚ€/
+p
+java:S1192Š"RDefine a constant instead of duplicating this literal "Choose a friend: " 3 times.(ş­ø8“ÎµÚ€/
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ş­ø8“ÎµÚ€/
+U	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Ïø‰^8“ÎµÚ€/
+“
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Éú˜üøÿÿÿÿ8“ÎµÚ€/
+¢
+java:S1319¶"The type of the "invitationSendedList" object should be an interface such as "List" rather than the implementation "ArrayList".(±Ïò ùÿÿÿÿ8“ÎµÚ€/
+V	java:S106ı"9Replace this use of System.out or System.err by a logger.(ÅûĞã8“ÎµÚ€/

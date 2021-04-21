@@ -1,0 +1,82 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®¤ıòşÿÿÿÿ
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Ş†£÷ùÿÿÿÿ8šıÕÙ€/
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ÛÔ‹úøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(íüœ-
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(–¢¥Ù
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÜáÕóÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…±ùÈúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ó“÷ÿÿÿÿÿ
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(ŠØÜ¡ûÿÿÿÿ8šıÕÙ€/
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ó °ôÿÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ö°ÅÑ
+;
+java:S1659"%Declare "choice8" on a separate line.(°×Š’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ĞÍ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(·Ášq
+;
+java:S1659"%Declare "choice7" on a separate line.(°×Š’
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(øõÆ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(‘ôØßşÿÿÿÿ
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(¸ğàşÿÿÿÿ8šıÕÙ€/
+I
+java:S1481",Remove this unused "choice8" local variable.(°×Š’8šıÕÙ€/
+;
+java:S1659"%Declare "choice9" on a separate line.(°×Š’
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(âñó‘ûÿÿÿÿ
+;
+java:S1659"%Declare "choice5" on a separate line.(°×Š’
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(”ûïx
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(áö¹
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Û‰êıÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ÚçÈÛûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+C
+java:S1659"&Declare "choice10" on a separate line.(°×Š’8šıÕÙ€/
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(ÂöÅ8‰ú‚Ğş.
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Ş¢£‚
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ªğ¾õùÿÿÿÿ
+I
+java:S1481",Remove this unused "choice7" local variable.(°×Š’8šıÕÙ€/
+I
+java:S1481",Remove this unused "choice9" local variable.(°×Š’8šıÕÙ€/
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(óòá”
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(óğ¾«
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(¸•™ğşÿÿÿÿ8šıÕÙ€/
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(®ÌÍ»ûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éğşê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ôä
+;
+java:S1659"%Declare "choice6" on a separate line.(°×Š’
+a	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(íÎÈ§
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(™¬Ëş
+;
+java:S1659"%Declare "choice3" on a separate line.(°×Š’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æê­„
+?
+java:S1659")Declare "password_in" on a separate line.(éğşê
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(¶ÑÉœ8ôƒĞş.
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(˜øÒ¨şÿÿÿÿ
+o
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡á¯B
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Èƒ¥ûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(îåºï
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(¬“å/
+N
+java:S4524­"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ8šıÕÙ€/
+I
+java:S1481",Remove this unused "choice6" local variable.(°×Š’8šıÕÙ€/
+7	java:S131U""Add a default case to this switch.(£€Ã
+;
+java:S1659"%Declare "choice4" on a separate line.(°×Š’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿçú÷
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(»½›
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ë³äÀøÿÿÿÿ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 89 to the 15 allowed.(Çµí‘
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÍµÊ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Íòë¥
+;
+java:S1659"%Declare "choice2" on a separate line.(°×Š’
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éğşê

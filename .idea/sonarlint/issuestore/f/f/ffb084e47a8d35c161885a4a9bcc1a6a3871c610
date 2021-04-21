@@ -1,0 +1,19 @@
+
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¡Á—Êûÿÿÿÿ
+Œ
+java:S1319K"vThe type of the "messageList" object should be an interface such as "List" rather than the implementation "ArrayList".(æÏµš
+…
+java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ü«êù
+M	java:S106<"9Replace this use of System.out or System.err by a logger.(Œùj
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÔˆÄËÿÿÿÿÿ
+†
+java:S1319G"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸·Õ½
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃšëÜûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ÔˆÄËÿÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ú§úûÿÿÿÿ
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¡Á—Êûÿÿÿÿ8ÌÓºÎş.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ÙÚÙ8ÌÓºÎş.

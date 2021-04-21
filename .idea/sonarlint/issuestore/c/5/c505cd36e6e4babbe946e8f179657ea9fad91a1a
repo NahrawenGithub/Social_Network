@@ -1,0 +1,36 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”áëŠúÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(°¦è¼
+†
+java:S1319w"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëÜ†
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½•Âïıÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Ñ‚ô³øÿÿÿÿ
+‚
+java:S4165t"gRemove this useless assignment; "groupWall" already holds the assigned value along all execution paths.(šÄ±ıÿÿÿÿ
+f	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨åÍÏ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(‹ÇÓ
+
+java:S1319c"yThe type of the "invitationList" object should be an interface such as "List" rather than the implementation "ArrayList".(—ÉÙÇ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(êâ¥ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½•Âïıÿÿÿÿ
+d	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê°ñä
+k	java:S116
+"VRename this field "MembersList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èæ½õ
+T	java:S106["9Replace this use of System.out or System.err by a logger.(Ïø‰^8¿ìğÏş.
+F
+java:S1172s"0Remove this unused method parameter "GroupWall".(¨åÍÏ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¥©‰Â
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ÇÃôÄ
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ªÒÜ¢úÿÿÿÿ8¿ìğÏş.
+0
+java:S1220""Move this file to a named package.
+‹
+java:S1319_"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Éú˜üøÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ùÁ¶¨üÿÿÿÿ
+‘
+java:S1319{"vThe type of the "membersList" object should be an interface such as "List" rather than the implementation "ArrayList".(íøÛ‰ûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÙéşÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ª­¨ÿÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ËÓ‰§

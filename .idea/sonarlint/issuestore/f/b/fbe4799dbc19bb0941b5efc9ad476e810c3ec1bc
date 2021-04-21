@@ -1,0 +1,64 @@
+
+1
+java:S3626&"Remove this redundant jump.(ûÁİ…
+P
+java:S4973“"9Use the "equals" method if value comparison was intended.(İ÷²ø
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ìşİüÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(””òğ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(Ò¿½Ÿùÿÿÿÿ
+M	java:S106C"9Replace this use of System.out or System.err by a logger.(ÌÃöX
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(€·ãş
+U
+java:S4973”"9Use the "equals" method if value comparison was intended.(¨çÜãúÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ºÇ‚ıÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(å“Ê
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(™à¸î
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„æˆ²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó°ğì
+‡
+java:S1319"lThe type of the "list" object should be an interface such as "Map" rather than the implementation "HashMap".(ÕË³¬øÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÿÍ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(ˆ›äôıÿÿÿÿ
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–«Û´
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(’Ú›»üÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¾é¥
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¾é¥
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(…˜ıÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(¬Ù³Ì
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ƒµòùÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¾é¥
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(š¾Úˆşÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı‡Ä¤
+‰
+java:S1319 "mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(İÒÈûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(Ÿë³Ûùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Š‘Ğµşÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(‡…Ø·úÿÿÿÿ
+‰
+java:S1319#"sThe type of the "alreadySeen" object should be an interface such as "Set" rather than the implementation "HashSet".(¾¦Î
+
+java:S1319¤"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³ˆÎê8üÕÙ€/
+
+java:S1319¨"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ç¢ÑÛ8üÕÙ€/
+i
+java:S1192="GDefine a constant instead of duplicating this literal "Name: " 3 times.(•°¬ñûÿÿÿÿ8üÕÙ€/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş°Ÿ„ÿÿÿÿÿ8üÕÙ€/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÂ‘¤şÿÿÿÿ8üÕÙ€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8üÕÙ€/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(•°¬ñûÿÿÿÿ8üÕÙ€/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(•°¬ñûÿÿÿÿ8üÕÙ€/
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(ı¯üÔşÿÿÿÿ8üÕÙ€/
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(ŞØî8üÕÙ€/
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(œıšô8üÕÙ€/
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(•°¬ñûÿÿÿÿ8üÕÙ€/
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(ºÇ‚ıÿÿÿÿ8üÕÙ€/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(øùÊ8üÕÙ€/
+T	java:S106}"9Replace this use of System.out or System.err by a logger.(ÖØ'8üÕÙ€/
+U	java:S106†"9Replace this use of System.out or System.err by a logger.(ÃÆ›u8üÕÙ€/
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(Äğ€Ç8üÕÙ€/

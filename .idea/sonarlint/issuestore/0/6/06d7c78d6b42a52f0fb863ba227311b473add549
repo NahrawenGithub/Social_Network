@@ -1,0 +1,14 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ûäøıÿÿÿÿ
+j	java:S116"PRename this field "Likes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¢ÈÂıÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëœó¯8àÁÔÎş.
+d	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê°ñä
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+0
+java:S1220""Move this file to a named package.
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(Ïø‰^8àÁÔÎş.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ûäøıÿÿÿÿ
+v	java:S116"URename this field "LikersList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÄğıÿÿÿÿ8ŞûÕÙ€/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Å•Àşÿÿÿÿ8ŞûÕÙ€/
